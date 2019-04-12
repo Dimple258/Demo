@@ -1,13 +1,3 @@
-<<<<<<< .mine
-<<<<<<< .mine
 Mohammed Masud Shaikh
-=======
 qwersf fsdf sdfsdfs 
->>>>>>> .theirs
-=======
-
-qwersf fsdf sdfsdfs 
-
- first time
-
->>>>>>> .theirs
+first time
